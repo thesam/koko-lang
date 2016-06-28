@@ -1,0 +1,4 @@
+main
+  println "Hello world"
+  var x = [1,2,3]
+  print x
